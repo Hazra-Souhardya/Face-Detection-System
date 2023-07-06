@@ -1,4 +1,4 @@
-# Face_Detection_System
+# Face-Detection-System
 Project - Face Detection System
 
 Face Detection System detects face of a person using a camera/webcam and helps to identify the person.
