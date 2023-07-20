@@ -7,4 +7,4 @@ The file keeps the records of faces detected with time and then saves the file w
 It can be used as attendance marking system in that way too.
 
 It uses OpenCV(Open Source Computer Vision) library with Python.
-OpenCV is a library of programming functions mainly for real-time computer vision.
+OpenCV is a library of programming functions mainly used for real-time computer vision.
