@@ -1,5 +1,6 @@
 # Face-Detection-System
-Project - Face Detection System
+
+Face Detection System to detect and identify face of a person.
 
 Face Detection System detects face of a person using a camera/webcam and helps to identify and recognise the person.
 After detecting the face it generates an excel(.csv) file.
